@@ -37,7 +37,7 @@ s.dependency 'Alamofire'
 s.dependency 'MBProgressHUD', '~> 1.1.0'
 
 # 8
-s.source_files = "KnobControl/*.{swift,plist,h}"
+s.source_files = "KnobControl/*.{swift}"
 
 # 9
 # s.resources = "KnobControl/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
