@@ -22,7 +22,7 @@ s.version = "0.1.0"
 s.license = { :type => "MIT", :file => "LICENSE" }
 
 # 4 - Replace with your name and e-mail address
-s.author = { "leo yu" => yuleo@netscape.net" }
+s.author = { "leo yu" => "yuleo@netscape.net" }
 
 # 5 - Replace this URL with your own GitHub page's URL (from the address bar)
 s.homepage = "https://github.com/yuleonetscapenet/TestPod"
