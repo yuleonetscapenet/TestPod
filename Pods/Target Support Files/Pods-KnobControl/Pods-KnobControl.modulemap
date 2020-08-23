@@ -1,0 +1,6 @@
+module Pods_KnobControl {
+  umbrella header "Pods-KnobControl-umbrella.h"
+
+  export *
+  module * { export * }
+}
